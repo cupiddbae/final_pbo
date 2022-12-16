@@ -1,0 +1,2 @@
+Luas persegi dengan panjang 23.0 dan lebar 22.0 adalah 506.0
+Luas segitiga dengan alas 14.0 dan tinggi 24.0 adalah 168.0
